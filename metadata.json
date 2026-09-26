@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Kebersihan Diri - MPI Kelas 1 SD",
+  "description": "Media Pembelajaran Interaktif Bahasa Indonesia Kelas 1 SD: Menyimak Kebersihan Diri & Suku Kata Berawalan Huruf K.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
